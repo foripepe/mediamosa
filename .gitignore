@@ -6,4 +6,4 @@ sites/*/files
 sites/*/private
 
 # ignore dot files. Will not affected .htaccess, its already added.
-#.*
+.*

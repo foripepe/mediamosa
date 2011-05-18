@@ -25,6 +25,8 @@ update mediamosa_asset_metadata set val_datetime = DATE_SUB(val_datetime, INTERV
 TODO: (v2.4)
 - OAI delete support.
 - Fix bug FTP ' FTP User - common tests' unit-test.
+- Priority development (See ticket #242).
+- Gitignore file was added.
 
 MediaMosa 2.3.9 (build 1381)
 ----------------------------

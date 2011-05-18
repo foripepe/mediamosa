@@ -236,7 +236,7 @@ function _mediamosa_user_access($perms, $one_part_test = FALSE) {
 
   // Get the roles.
   $role_permissions = user_role_permissions($user->roles);
-  if (empty($role_permissions[$user->uid])) {
+  if (empty($role_permissions)) {
     return FALSE;
   }
 

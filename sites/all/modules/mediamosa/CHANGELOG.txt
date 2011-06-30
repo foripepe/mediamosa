@@ -28,12 +28,14 @@ TODO: (v2.4)
 - Priority development (See ticket #242).
 - Gitignore file was added.
 
-MediaMosa 2.3.10 (build 1385)
+MediaMosa 2.3.11 (build 1389)
 -----------------------------
 - VP-Core timeouts (See ticket #213).
   A new parameter was added to the /collection [GET] call to increase the performance:
   calculate_total_numofvideos, type = boolean, required = optional, default value = TRUE
 
+MediaMosa 2.3.10 (build 1385)
+-----------------------------
 Other changes (not ticket related)
 - Transcoding from mp3 to mp4 generates error. 
 - Added still check to integrity check (code commited by flyapen on Github).

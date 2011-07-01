@@ -28,7 +28,7 @@ TODO: (v2.4)
 - Priority development (See ticket #242).
 - Gitignore file was added.
 
-MediaMosa 2.3.12 (build ----)
+MediaMosa 2.3.12 (build 1392)
 -----------------------------
 - VP-Core productie: nieuwe FTP user onmogelijk (See ticket #244). New user with appropriate rights fix.
 
